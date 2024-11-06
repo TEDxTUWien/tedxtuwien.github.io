@@ -150,10 +150,14 @@
     if (event.code === "KeyP") {
       factor = 60;
       resetTimer();
+      setTimeLimit(4, "check4"); // Set to 4 minutes time limit
+      document.getElementById("debug").textContent = "";
     }
     if (event.code === "KeyD") {
       factor = 1;
       resetTimer();
+      setTimeLimit(4, "check4"); // Set to 4 minutes time limit
+      document.getElementById("debug").textContent = " (debug)";
     }
     if (event.code === "KeyR") {
       resetTimer();
@@ -201,7 +205,7 @@
           <button>1</button>... <button>0</button>-<span class="tip">time limit <span>4<span id="check4"> ✓</span></span>, <span>5<span id="check5"></span></span>, <span>6<span id="check6"></span></span>, <span>7<span id="check7"></span></span>, <span>8<span id="check8"></span></span>, <span>9<span id="check9"></span></span>, <span>10<span id="check10"></span></span>, <span>11<span id="check11"></span></span>, <span>12<span id="check12"></span></span>, <span>13<span id="check13"></span></span> min</span>
         </li>
         <li><button>R</button>-<span class="tip">reset timer</span></li>
-        <li><button>Space</button>-<span class="tip"><span id="startstop">start </span>timer</span></li>
+        <li><button>Space</button>-<span class="tip"><span id="startstop">start </span>timer</span><i><span id="debug"></span></i></li>
     </ul>
   </div>
 </body>
