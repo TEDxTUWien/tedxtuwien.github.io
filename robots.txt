@@ -1,0 +1,9 @@
+# TEDxTUWien is a public event site: all crawlers, including AI crawlers, are welcome.
+# To restrict a specific AI crawler, add a block such as:
+#   User-agent: GPTBot
+#   Disallow: /
+User-agent: *
+Allow: /
+Disallow: /login/
+
+Sitemap: https://www.tedxtuwien.at/sitemap-index.xml
