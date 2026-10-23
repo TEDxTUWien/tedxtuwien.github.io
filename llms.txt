@@ -4,9 +4,9 @@
 
 ## Pages
 
-- [English site](https://tedxtuwien.github.io/): event overview, speakers, hosts, performers, past events, tickets, FAQ
-- [Deutsche Seite](https://tedxtuwien.github.io/de/): the same content in German
-- [Team](https://tedxtuwien.github.io/team/): the organizing team
+- [English site](https://www.tedxtuwien.at/): event overview, speakers, hosts, performers, past events, tickets, FAQ
+- [Deutsche Seite](https://www.tedxtuwien.at/de/): the same content in German
+- [Team](https://www.tedxtuwien.at/team/): the organizing team
 
 ## Facts
 

@@ -6,4 +6,4 @@ User-agent: *
 Allow: /
 Disallow: /login/
 
-Sitemap: https://tedxtuwien.github.io/sitemap-index.xml
+Sitemap: https://www.tedxtuwien.at/sitemap-index.xml
