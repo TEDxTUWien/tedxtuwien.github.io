@@ -1,11 +1,12 @@
 # TEDxTUWien
 
-> TEDxTUWien is an independently organized TED event (operated under license from TED) at TU Wien, Vienna. The 9th edition takes place on 22 November 2026 in the Kuppelsaal, Karlsplatz 13, 1040 Vienna. Talks are in English.
+> TEDxTUWien (also written TEDx TU Wien or TEDxTU Wien) is an independently organized TED event (operated under license from TED) at TU Wien, Vienna. The 9th edition takes place on 22 November 2026 in the Kuppelsaal, Karlsplatz 13, 1040 Vienna. Talks are in English.
 
 ## Pages
 
-- [English site](https://www.tedxtuwien.at/): event overview, speakers, program, tickets, FAQ
-- [Deutsche Seite](https://www.tedxtuwien.at/de/): the same content in German
+- [English site](https://tedxtuwien.github.io/): event overview, speakers, hosts, performers, past events, tickets, FAQ
+- [Deutsche Seite](https://tedxtuwien.github.io/de/): the same content in German
+- [Team](https://tedxtuwien.github.io/team/): the organizing team
 
 ## Facts
 
